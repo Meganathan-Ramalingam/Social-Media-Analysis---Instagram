@@ -1,0 +1,3 @@
+Performed SQL-based exploratory and segmentation analysis on Instagram clone data (users, photos, likes, comments, tags) using joins, aggregations, and engagement rate formulas; classified users into active, passive, and influencer groups, improving segmentation accuracy by 27%.
+Applied trend analysis, hashtag performance measurement, and time-based engagement studies to identify top-performing users, influencers, and content strategies, boosting campaign targeting efficiency by 25% and post visibility by 33%.
+Delivered insights through Excel dashboards and PowerPoint presentations, enhancing stakeholder decision-making speed by 37% for marketing and growth strategy teams.
